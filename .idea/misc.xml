@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager">
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK">
+=======
+  <component name="ProjectRootManager" version="2" default="true">
+>>>>>>> classe-cliente
+=======
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK">
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK">
+>>>>>>> 556a1c0 (..q)
+=======
+  <component name="ProjectRootManager" version="2" default="true">
+>>>>>>> 47dba55 (Commitando a Idea)
+>>>>>>> classe-cliente
+>>>>>>> 0609d5b38bd1627777be84ed0f0d255f91477abd
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
