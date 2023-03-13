@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/git-branches.iml" filepath="$PROJECT_DIR$/git-branches.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/git-branches.iml" filepath="$PROJECT_DIR$/.idea/git-branches.iml" />
+>>>>>>> 556a1c0 (..q)
     </modules>
   </component>
 </project>
